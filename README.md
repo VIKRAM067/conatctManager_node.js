@@ -1,4 +1,4 @@
-# conatctManager
+# contactManager
 
 ### This project is a beginner friendly project for node.js and express.js using Mongo DB which is a NOSQL database for using CRUD operations around the database. This project also uses JWT(Json web token) which makes the routes private, where the routes can be only accessed through WebTokens. And only by web tokens, we can access through the contacts.
 
